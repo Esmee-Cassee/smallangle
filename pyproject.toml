@@ -18,4 +18,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-smallangle = "smallangle.smallangle:start_list"
+smallangle = "smallangle.smallangle:perform_calculations"
